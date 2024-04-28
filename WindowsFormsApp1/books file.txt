@@ -1,0 +1,3 @@
+123,basmala,basmala,200
+222,omnia,omnia,234
+*234,basmalaa,bosy,250
